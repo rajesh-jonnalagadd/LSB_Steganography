@@ -1,5 +1,5 @@
+LSB_Steganography
 
-################################################& LSB Image steganography In C  &#################################################
 
 Abstarct:
  
@@ -16,7 +16,7 @@ The appliaction should provide a option to decrpt the file
 This has to be an command line apliaction and all the options has to be passed as an command line argument
 
 
-####################################################################################################################################
+#########################################################################################################
 
 @ FILES
 
@@ -31,7 +31,7 @@ This has to be an command line apliaction and all the options has to be passed a
 	Encode/encode.c			- Every function defined for required operations for Encoding.
 	Decode/decode.c			- Every function defined for required operations for Decoding.
 	
-################################################################################################################################
+#########################################################################################################
 
 @COMPILATION
 
@@ -48,10 +48,3 @@ This has to be an command line apliaction and all the options has to be passed a
 
 	~$ ./lsbsteg
 
-
-@ If you want to run the code with out compiling the code (the compiled binary is added)
-
-	~$ chmod 777 lsbsteg
- 
-##################################################### ....Thankyou....  ############################################################
-	
