@@ -46,10 +46,3 @@ This has to be an command line apliaction and all the options has to be passed a
 @ Follow steps to execute the Compiled binary
 
 	~$ ./lsbsteg
-
-
-@ If you want to run the code with out compiling the code (the compiled binary is added)
-
-	~$ chmod 777 lsbsteg
- 
-	
